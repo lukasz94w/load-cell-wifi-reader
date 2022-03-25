@@ -5,3 +5,8 @@ Block diagram of the device and its photo are presented below. It can be observe
 
 ![image](https://user-images.githubusercontent.com/53697813/160007311-cb9dda8b-147e-477a-b78c-eac4d16e0304.png)
 
+![received_1233340783539081](https://user-images.githubusercontent.com/53697813/160159929-9cbf959c-1938-46f5-82dd-83c87af624e6.jpeg)
+
+![received_2313487058951506](https://user-images.githubusercontent.com/53697813/160159950-069f74f4-6c92-42ff-a753-c5a593d2f879.jpeg)
+
+
